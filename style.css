@@ -1,0 +1,33 @@
+
+span
+{
+display:table-cell; 
+margin-left: 0% ;
+padding-left: 200pt;
+
+}
+
+#btn1
+{
+    margin-left: 24% ;
+    
+}
+
+#btn2
+{
+    margin-left: 26% ;   
+}
+
+#ShowParagraph1
+{
+    margin-left: 7% ;
+    margin-top: 3%;
+    margin-right: 25%;
+    padding-right:25%   
+}
+
+#ShowParagraph2
+{
+    margin-left: 50% ; 
+    
+}
